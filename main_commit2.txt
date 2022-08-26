@@ -1,1 +1,2 @@
 const baz = "foo";
+bar
